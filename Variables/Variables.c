@@ -7,3 +7,8 @@ int main() {
     printf("Name: %s\n", name);
     printf("Age: %d\n", age);
 }
+
+/* Output:
+Name: Riya
+Age: 31
+*/
